@@ -18,3 +18,6 @@ evaluated on the Multi-sequence CMR based Myocardial Pathology Segmentation chal
 0.664 for scar+edema. This is higher than the inter-observer variation
 of manual scar segmentation. The proposed method outperformed similar methods and showed that adding the two modules to FC-Densenet
 improves the segmentation result with little computational overhead.
+
+Full paper: http://dx.doi.org/10.1007/978-3-030-65651-5_10
+
