@@ -1,4 +1,5 @@
 # Automatic Myocardial Scar Segmentation from Multi-Sequence Cardiac MRI using Fully Convolutional Densenet with Inception and Squeeze-Excitation Module
+
 Automatic and accurate myocardial scar segmentation from
 multiple-sequence cardiac MRI is essential for the diagnosis and prognosis of patients with myocardial infarction. However, this is difficult
 due to motion artifact, low contrast between scar and blood pool in late
