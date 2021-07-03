@@ -1,6 +1,6 @@
 # Automatic Myocardial Scar Segmentation from Multi-Sequence Cardiac MRI using Fully Convolutional Densenet with Inception and Squeeze-Excitation Module
 
-This is the code for the MICCAI 2020 workshop paper in conjuction MyoPS 2020 (Myocardial pathology segmentation combining multi-sequence CMR)
+This is the code for the MICCAI 2020 workshop paper in conjuction with MyoPS 2020 (Myocardial pathology segmentation combining multi-sequence CMR)
 
 Automatic and accurate myocardial scar segmentation from
 multiple-sequence cardiac MRI is essential for the diagnosis and prognosis of patients with myocardial infarction. However, this is difficult
